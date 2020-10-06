@@ -11,3 +11,4 @@ C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\bi
 C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Release\ECM2018.exe.manifest
 C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Release\ECM2018.application
 C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Release\ECM2018.csproj.CoreCompileInputs.cache
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Release\ECM2018.csprojAssemblyReference.cache
