@@ -1,0 +1,10 @@
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\bin\x86\Debug\ECM2018.exe.config
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\bin\x86\Debug\ECM2018.exe
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\bin\x86\Debug\ECM2018.pdb
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\x86\Debug\ECM2018.Form1.resources
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\x86\Debug\ECM2018.Properties.Resources.resources
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\x86\Debug\ECM2018.csproj.GenerateResource.Cache
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\x86\Debug\ECM2018.exe
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\x86\Debug\ECM2018.pdb
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\bin\x86\Debug\ECMLib.dll
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\x86\Debug\ECM2018.csprojResolveAssemblyReference.cache

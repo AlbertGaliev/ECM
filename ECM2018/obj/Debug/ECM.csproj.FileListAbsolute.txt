@@ -1,0 +1,4 @@
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Debug\ECM.csprojResolveAssemblyReference.cache
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Debug\ECM2018.Form1.resources
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Debug\ECM.Properties.Resources.resources
+C:\Users\Альберт\Documents\Visual Studio 2015\Projects\ECM2018\ECM2018\obj\Debug\ECM.csproj.GenerateResource.Cache
